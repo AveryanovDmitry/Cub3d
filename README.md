@@ -32,6 +32,10 @@ With the help of the numerous documents available on the internet, I was use mat
 To run, run the make build, run the executable file ./cub3d maps / map1.cub If necessary, the screen size can be changed in the R !
 parameter of the map file. Use WASD and arrow keys to move around the map.
 
+****
+<img width="2560" alt="Screen Shot 2021-09-12 at 12 06 20 AM" src="https://user-images.githubusercontent.com/45557026/132961765-79d6af2d-7694-4f97-a100-8878cf65db10.png">
 
+****
 
+<img width="2560" alt="Screen Shot 2021-09-12 at 12 06 35 AM" src="https://user-images.githubusercontent.com/45557026/132961776-bcc440d5-cc31-471c-9d58-988c6cc052df.png">
 
